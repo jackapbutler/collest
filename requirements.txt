@@ -41,7 +41,7 @@ pytz==2025.2
 pyzmq==26.4.0
 scipy==1.15.3
 seaborn==0.13.2
-setuptools==78.1.1
+setuptools==84.1.0
 six==1.17.0
 -e git+ssh://git@github.com/jackapbutler/collest.git@e62bacef9f1198121831ccfdc3808fb94a883722#egg=spatialca
 stack-data==0.6.3
